@@ -21,3 +21,6 @@ This is a WeatherApp project that utilizes HTML, CSS, Bootstrap, Rapid API, and 
 - Open the project folder in your preferred code editor.
 - Obtain an API key from Rapid API (https://rapidapi.com/) by signing up for a free account and subscribing to a weather API.
 - Open the **index.html** file in your web browser or use a local development server.
+## Screenshots
+
+![App Screenshot](app.jpg)
