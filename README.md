@@ -1,6 +1,6 @@
 # SkyCast
 
-This is a WeatherApp project that utilizes HTML, CSS, Bootstrap, Rapid API, and JavaScript to display weather information for a given location.
+This weather app project utilizes HTML, CSS, Bootstrap, Rapid API, and JavaScript to display weather information for a given location.
 
 
 ## Features
